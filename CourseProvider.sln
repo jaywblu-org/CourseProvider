@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseProvider", "CourseProvider\CourseProvider.csproj", "{75E2D1D6-3262-40E6-8552-160BF1314C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{BBE99F1D-318C-401B-BCDA-BACE56E6C2D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E2D1D6-3262-40E6-8552-160BF1314C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E2D1D6-3262-40E6-8552-160BF1314C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E2D1D6-3262-40E6-8552-160BF1314C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E2D1D6-3262-40E6-8552-160BF1314C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE99F1D-318C-401B-BCDA-BACE56E6C2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE99F1D-318C-401B-BCDA-BACE56E6C2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE99F1D-318C-401B-BCDA-BACE56E6C2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE99F1D-318C-401B-BCDA-BACE56E6C2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472A257B-027A-4D11-AF1D-623D26A6AEFD}
+	EndGlobalSection
+EndGlobal
